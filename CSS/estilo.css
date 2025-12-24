@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+}
+.background{
+    background-image: url(../IMAGENES/FondoWeb.png);
+    position: 0px 0px;
+    background-attachment: fixed;
+    background-size: contain;
+    margin-top: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.texto{
+    width:750px;
+}
